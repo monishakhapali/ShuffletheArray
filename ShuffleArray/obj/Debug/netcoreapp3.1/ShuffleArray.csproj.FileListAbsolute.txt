@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\ShuffleArray\ShuffleArray\bin\Debug\netcoreapp3.1\ShuffleArray.exe
+C:\Users\monisha.khapali\source\repos\ShuffleArray\ShuffleArray\bin\Debug\netcoreapp3.1\ShuffleArray.deps.json
+C:\Users\monisha.khapali\source\repos\ShuffleArray\ShuffleArray\bin\Debug\netcoreapp3.1\ShuffleArray.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\ShuffleArray\ShuffleArray\bin\Debug\netcoreapp3.1\ShuffleArray.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\ShuffleArray\ShuffleArray\bin\Debug\netcoreapp3.1\ShuffleArray.dll
+C:\Users\monisha.khapali\source\repos\ShuffleArray\ShuffleArray\bin\Debug\netcoreapp3.1\ShuffleArray.pdb
+C:\Users\monisha.khapali\source\repos\ShuffleArray\ShuffleArray\obj\Debug\netcoreapp3.1\ShuffleArray.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\ShuffleArray\ShuffleArray\obj\Debug\netcoreapp3.1\ShuffleArray.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\ShuffleArray\ShuffleArray\obj\Debug\netcoreapp3.1\ShuffleArray.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\ShuffleArray\ShuffleArray\obj\Debug\netcoreapp3.1\ShuffleArray.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\ShuffleArray\ShuffleArray\obj\Debug\netcoreapp3.1\ShuffleArray.dll
+C:\Users\monisha.khapali\source\repos\ShuffleArray\ShuffleArray\obj\Debug\netcoreapp3.1\ShuffleArray.pdb
+C:\Users\monisha.khapali\source\repos\ShuffleArray\ShuffleArray\obj\Debug\netcoreapp3.1\ShuffleArray.genruntimeconfig.cache
